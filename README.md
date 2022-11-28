@@ -1,5 +1,4 @@
-# The-Little-Taco-Shop-part-1
-# "HTML and CSS Project for Beginners"
+# "HTML Project for Beginners"
 
 ✅ [This project was created from this channel]((https://youtu.be/T5PD8ofhiug).
 
